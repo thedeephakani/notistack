@@ -46,11 +46,11 @@ const styles = makeStyles({
         },
     },
     top: {
-        top: `${indents.view.default - indents.snackbar.default}px`,
+        top: '60px', //`${indents.view.default - indents.snackbar.default}px`,
         flexDirection: 'column',
     },
     bottom: {
-        bottom: `${indents.view.default - indents.snackbar.default}px`,
+        bottom: '68px', //`${indents.view.default - indents.snackbar.default}px`,
         flexDirection: 'column-reverse',
     },
     left: {
