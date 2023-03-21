@@ -1,5 +1,5 @@
 {
-    "name": "notistack",
+    "name": "@thedeephakani/notistack",
     "version": "3.0.1",
     "description": "Highly customizable notification snackbars (toasts) that can be stacked on top of each other",
     "main": "./index.js",
